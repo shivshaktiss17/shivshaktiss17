@@ -55,7 +55,7 @@
 ---
  
 <!-- ACTIVITY GRAPH TRACKER -->
-[![Shiv's github activity graph](https://activity-graph.herokuapp.com/graph?username=shivshaktiss17&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
+[![Shiv's github activity graph](https://activity-graph.herokuapp.com/graph?username=shivshaktiss17&theme=react-dark)](https://github.com/shivshaktiss17/github-readme-activity-graph)
 
   
 
