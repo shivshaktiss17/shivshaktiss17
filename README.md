@@ -11,11 +11,13 @@
 
 ✔️ I am **Shiv Shakti**, currently working as a **Digital Specialist Engineer** in **Infosys Ltd.**. <br>
 
+✔️ I have over 3 years of experience in **Java**, **SpringBoot**, **MicroServices**. <br>
+
 ✔️ I have completed M.Tech. from **National Institute of Technology, Meghalaya** in **Computer Science & Engineering**. <br>
 
 ✔️ I am interested in competitive programming as well. <br>
 
-✔️ I have been the participant of  open-source event such as HacktoberFest'20.
+✔️ I have been a participant in open-source events such as HacktoberFest'20.
 
 <br>
 
