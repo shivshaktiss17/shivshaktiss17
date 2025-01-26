@@ -33,7 +33,7 @@
  
  
 <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivshaktiss17&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivshaktiss17&theme=dark&layout=compact&align=right&width=40%)](https://github.com/shivshaktiss17/github-readme-stats)
  
  ---
  
